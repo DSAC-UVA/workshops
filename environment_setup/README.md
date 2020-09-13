@@ -1,3 +1,8 @@
-A recording of the workshop can be found at 
+# Workshop: Python Environment Setup
 
-https://virginia.zoom.us/rec/share/O6X0FjFFGi1s35pOPHTiYLjnHg6yRubAa-jFXSF2ErhWPnsOGgUGhDIowrajlsG7.VC_eouBsbObMcsE_ Passcode: wYT5e#c3
+A 1 hour workshop introducing important concepts for creating and managing data science environments.
+
+The recording of the workshop can be found at the link below
+
+[Zoom Link](https://virginia.zoom.us/rec/share/O6X0FjFFGi1s35pOPHTiYLjnHg6yRubAa-jFXSF2ErhWPnsOGgUGhDIowrajlsG7.VC_eouBsbObMcsE_)
+Passcode: wYT5e#c3
