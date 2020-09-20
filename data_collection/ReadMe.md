@@ -3,11 +3,15 @@
 
 A 1 hour workshop introducing the importance of validity and reliability of surveys.
 
-The recording of the workshop can be found at the link below
+The important links can be found at the links below:
 
-[Codes](https://github.com/DSAC-UVA/workshops/blob/master/data_collection/Data%20Collection.ipynb)
+1. [Codes](https://github.com/DSAC-UVA/workshops/blob/master/data_collection/Data%20Collection.ipynb)
 
-[Video]()
-Passcode: 
+2. [Video]()
+   Passcode: 
 
-[Data](https://drive.google.com/file/d/1n2Ga-OyA4WOPLp_IZb-emkghfoOY0qS6/view?usp=sharing)
+3. [Data](https://drive.google.com/file/d/1n2Ga-OyA4WOPLp_IZb-emkghfoOY0qS6/view?usp=sharing)
+
+
+### Reference: 
+Flake, J. K., Pek, J., & Hehman, E. (2017). Construct validation in social and personality research: Current practice and recommendations. Social Psychological and Personality Science, 8(4), 370-378.
