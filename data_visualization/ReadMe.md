@@ -2,7 +2,7 @@
 
 # Workshop: Data Collection (working with Qualtrics)
 
-A 1 hour workshop ...
+A 1 hour workshop on data analysis and data visualization.
 
 The important links can be found at the links below:
 
