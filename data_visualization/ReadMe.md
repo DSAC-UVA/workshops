@@ -6,7 +6,7 @@ A 1 hour workshop ...
 
 The important links can be found at the links below:
 
-1. [Codes]
+1. [Codes](https://github.com/DSAC-UVA/workshops/blob/master/data_visualization/Data%20Visualization.ipynb)
 
 2. [Video]
 
