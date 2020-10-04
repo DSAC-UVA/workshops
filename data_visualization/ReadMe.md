@@ -16,3 +16,7 @@ The important links can be found at the links below:
 
 
 ### Reference: 
+
+1. https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
+2. https://github.com/tdpetrou/Learn-Pandas
+3. https://github.com/guipsamora/pandas_exercises
